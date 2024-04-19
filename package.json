@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@builder.io/sdk-react": "^1.0.21",
+    "@builder.io/sdk-react": "https://gitpkg.now.sh/dext/builder-io/packages/sdks/output/react?release-2024-04-11-2",
     "next": "14.2.2",
     "react": "^18",
     "react-dom": "^18"
